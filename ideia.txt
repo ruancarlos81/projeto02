@@ -1,0 +1,51 @@
+---- JOGO RPG INSPIRADO NO THE WITCHER/SKYRIM NO BRASIL, COM O FOLCLORE E COM RELIGIOES BRASILEIRAS, AFRO BRASILEIRAS E AFRO INDIGINAS ----
+    ---AMBIENTAÇÃO = Um mundo vasto e hostil, não romantizado, com florestas tropicais densas, rios perigosos, serras isoladas, sertões aridos, praias traiçoeiras e cidades coloniais marcadas por culpa, exploração e sincratismo forçado. ---
+    ---MITOLOGIA E COSMOVISÃO = O mundo é regido por entidades indiferentes ou hostis ao ser humano. O folclore brasileiro e as religiões afro-brasileiras, afro-indigenas e indígenas não são tratados como fantasia meralizante, mas como sistemas cosmológicos ativos, perigosos e contraditórios. ---
+
+    ---Personagens---
+        - Classes - 
+            -Guerreiro = Combate corpo a corpo brutal, uso de lâminas, armas improvisadas e resistência física.-
+            -Mago = Manipulação de forças naturais e espirituais, com risco real de corrupção, posseção ou morte.-
+            -Caçador = Rastreamento, emboscadas, sobrevivência e conhecimento prático de criaturas.-
+        -Personalidades = Personagens com histórias ricas, influenciadas pro tradições e lendas locais.-
+    ---Missões---
+        -Principais = A busca por um artefato perdido ou a luta contra uma entidade maligna.-
+        -Secundarias = Ajudar aldeões, resolver conflitos, coletar ingredientes para poções-
+    ---Mecanicas de Jogo---
+        -Sistema de combate = Mistura de combate em tempo real e estratégico.-
+        -Exploração: Descoberta de locais secretos, criaturas e tesouros.-
+        -Decisões: Escolhas que afetam a narrativa e o mundo ao seu redor.-
+    ---Estilo Visual e Musica---
+        -Estética = Arte inspirada na cultura brasileira, com cores vibrantes e design inspirado em tradições. -
+        -Trilha sonóra = Mistura de sons folclóricos com música orquestral para criar uma atmosfera envolvente. -
+----INIMIGOS----
+    ---INIMIGOS COMUNS---
+        -SACI-
+            -Um espirito noturno que causa redemoinhos e infortúios. Ele é astuto e pode causar doenças subtas em viajantes desavisados.-
+        -CAIPORA-
+            -Um espírito ambíguo da floresta. Sua ajuda é incerta; pode guiar caçadores ou levá-los à ruína, dependendo do seu humor.-
+        -BOITATA-
+            -Uma serpente ígnea que emerge dos restos de fogo-fátuo. Ela queima olhos dos intrusos e devora suas almas, punindo quem viola a terra.
+        -BOIÚNA-
+            -Ser primordial das águas que afunda canoas e engole pessoas. É um símbilo do medo ancestral dos rios.-
+        -CUCA-
+            -Entidade que devora crianças, representando o medo noturno. Ela se esconde nas combras, pronta para atacar.-
+        -EXU TRANCA-RUA-
+            -Fecha rotas, provoca desorientação, acidentes e perda de recursos.-
+        -EXU DA ENCRUZILHADA-
+            -Confunde decisões, altera escolhas do jogador e distorce resultados.-
+    ---CHEFES---
+        -CURUPIRA-
+            -Entidade da floresta que castiga brutalmente os caçadores. Ele enlouquece seus inimigos até que se percam e morram de fome.-
+        -IARA-
+            -Um espírito aquatico predador que afoga homens e drena sua força vital. Ela pode devorar ou enlouquecer suas vítimas.-
+        -MAPINGUARI-
+            -Um guardião monstruoso da floresta, exalando um fedor cadavérico. Possui uma boca no ventre e esmaga humanos que invadem áreas sagradas.-
+        -LOBISOMEM-
+            -Ser bestial ligado a pecados e maldições. Ele ataca com ferocidade, sendo uma ameaça para todos que cruzam seu caminho.-
+        -MÃE-DE-OURO-
+            -Uma entidade que amaldiçoa quem tenta se aproximar de riquezas enterradas. Os que ignoram seu aviso encontram morte ou loucura.
+        -EXU CAVEIRA-
+            -Manifesta-se em locais de morte e descarte humano. Castiga a arrogância e a profanação.-
+        -EXU SETE ENCRUZILHADAS-
+            -Entidade estratégica que testa limites, quebra pactos e impões consequências irreversíveis.
